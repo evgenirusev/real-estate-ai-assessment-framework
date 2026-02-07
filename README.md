@@ -1,4 +1,4 @@
-# Bulgaria Real Estate Investment Opportunity Assessment
+# Real Estate Investment Opportunity Assessment
 
 An agentic prompt system for comprehensive real estate market analysis in Bulgaria.
 
