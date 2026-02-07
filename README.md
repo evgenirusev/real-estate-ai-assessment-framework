@@ -1,6 +1,8 @@
 # Real Estate Investment Opportunity Assessment
 
-An agentic prompt system for comprehensive real estate market analysis.
+An framework for comprehensive real estate market analysis.
+
+**How it works:** Collect property and market data through deep research and physical property inspections, then feed it all into a master prompt that assesses the investment opportunity — giving you a score, risk rating, and BUY/PASS verdict.
 
 ## Table of Contents
 
