@@ -8,6 +8,8 @@
 
 Fill out this data sheet for each property under consideration. Use information from the listing, agent inquiries, and property visits.
 
+> ⚠️ **Physical visits are essential.** Many fields — especially condition ratings, environment assessment (noise, air quality), and systems inspection — cannot be reliably assessed from online listings alone. Always visit the property before completing this form.
+
 ---
 
 ## Standard Rating Scales
