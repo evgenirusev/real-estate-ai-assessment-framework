@@ -1,6 +1,6 @@
 # Real Estate Investment Opportunity Assessment
 
-An agentic prompt system for comprehensive real estate market analysis in Bulgaria.
+An agentic prompt system for comprehensive real estate market analysis.
 
 ## Table of Contents
 
