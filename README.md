@@ -1,4 +1,4 @@
-# Real Estate Investment Opportunity Assessment
+# Real Estate Investment Opportunity AI Framework
 
 An framework for comprehensive real estate market analysis.
 
