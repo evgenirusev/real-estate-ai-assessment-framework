@@ -1,6 +1,6 @@
 # Real Estate Investment Opportunity AI Framework
 
-An framework for comprehensive real estate market analysis.
+A framework for comprehensive real estate market analysis.
 
 **How it works:** Collect property and market data through deep research and physical property inspections, then feed it all into a master prompt that assesses the investment opportunity — giving you a score, risk rating, and BUY/PASS verdict.
 
